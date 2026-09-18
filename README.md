@@ -1,9 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=DƯƠNG&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20App%20Enthusiast&descAlignY=58"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E93,50:C77DFF,100:FF69B4&height=230&section=header&text=DƯƠNG&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20App%20Enthusiast&descAlignY=58&descSize=18"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=42A5F5&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B+I'm+D%C6%B0%C6%A1ng;Flutter+Developer+%F0%9F%93%B1;Learning+%E2%80%A2+Building+%E2%80%A2+Improving;Welcome+to+my+GitHub+Profile+%F0%9F%9A%80"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=750&lines=Hi+there+%F0%9F%91%8B+I'm+D%C6%B0%C6%A1ng;Flutter+Developer+%F0%9F%93%B1;I+love+building+beautiful+mobile+apps+%F0%9F%92%96;Learning+%E2%80%A2+Building+%E2%80%A2+Improving+%F0%9F%9A%80"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Duongkny&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/Duongkny?label=Followers&style=for-the-badge&color=FF2E93"/>
 </p>
 
 ---
@@ -11,21 +16,22 @@
 <img align="right" width="350"
 src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-## 👨‍💻 About Me
+## 💗 About Me
 
 * 🎓 Information Technology student at **HUBT**
 * 📱 Focusing on **Flutter Mobile Development**
-* 🌱 Currently learning **BLoC, Firebase, REST API & Clean Architecture**
-* 🔥 Interested in **Mobile App Development & Software Engineering**
+* 💖 Passionate about beautiful and user-friendly mobile applications
+* 🌱 Learning **BLoC, Firebase, REST API & Clean Architecture**
+* 🔥 Interested in **Mobile Development & Software Engineering**
 * 👥 Familiar with **Git / GitHub Team Workflow**
-* 🚀 Building projects to improve my practical development skills
+* 🚀 Building real-world projects to improve my development skills
 * 🎯 Goal: Become a professional **Flutter Developer**
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🌸 Tech Stack
 
 ### 📱 Mobile Development
 
@@ -45,7 +51,7 @@ src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code
   <img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
 </p>
 
-### 🔧 Tools
+### 🛠️ Development Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman"/>
@@ -53,41 +59,52 @@ src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code
 
 ---
 
-## 🚀 Currently Learning
+## 💕 My Development Journey
 
 ```text
-Flutter Development
+Flutter Developer
 │
-├── Dart
+├── 💙 Flutter
+│   ├── Widgets
+│   ├── Responsive UI
+│   └── Material Design
 │
-├── State Management
+├── 🎯 Dart
+│
+├── 🧠 State Management
 │   └── BLoC
 │
-├── API
+├── 🌐 Networking
 │   ├── REST API
 │   └── Dio
 │
-├── Local Storage
+├── 💾 Local Storage
 │   └── Hive
 │
-├── Firebase
+├── 🔥 Firebase
 │   ├── Authentication
-│   └── Cloud Messaging
+│   ├── Cloud Messaging
+│   └── Notifications
 │
-├── Localization
-├── Responsive UI
-└── Clean Architecture
+├── 🌍 Localization
+│
+├── 🔐 Authentication
+│   ├── JWT
+│   ├── Google Sign In
+│   └── Token Management
+│
+└── 🏗️ Clean Architecture
 ```
 
 ---
 
-## 📌 Featured Projects
+# 🌷 Featured Projects
 
-### 🔐 Flutter Authentication System
+## 🔐 Flutter Authentication System
 
-Authentication module developed with Flutter using a structured architecture.
+> Authentication module for Flutter applications built with a structured architecture.
 
-**Features**
+### ✨ Features
 
 * 🔑 Sign In
 * 📝 Sign Up
@@ -101,95 +118,105 @@ Authentication module developed with Flutter using a structured architecture.
 * 🌙 Dark / Light Theme
 * 🔔 Firebase Cloud Messaging
 
-**Technologies**
+### 💻 Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BLoC-2196F3?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Dio-5A29E4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Hive-F7B928?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-FF69B4?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-FF2E93?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BLoC-C77DFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Dio-FF69B4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hive-FF2E93?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Firebase-C77DFF?style=for-the-badge&logo=firebase&logoColor=white"/>
 </p>
 
 ---
 
-### 🐶 PetCare
+## 🐶 PetCare
 
-A social networking mobile application designed for pet owners.
+> A social networking mobile application designed for pet lovers and pet owners.
 
-**Planned Features**
+### 🌸 Planned Features
 
 * 🐾 Pet Profile
 * 📝 Posts
-* ❤️ Like
+* ❤️ Likes
 * 💬 Comments
-* 👥 Follow
-* 💬 Real-time Chat
+* 👥 Follow System
+* 💌 Real-time Chat
 * 🔔 Notifications
+* 📷 Photo Sharing
 
-**Technologies**
+### 💻 Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BLoC-2196F3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Flutter-FF69B4?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-FF2E93?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-C77DFF?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BLoC-FF69B4?style=for-the-badge"/>
 </p>
 
 ---
 
-### 📚 Bookstore Website
+## 📚 Bookstore Website
 
-Online bookstore project developed using Joomla and HikaShop.
+> Online bookstore project developed using Joomla and HikaShop.
 
-**Features**
+### ✨ Features
 
 * 📚 Product Management
 * 🗂️ Book Categories
 * 🛒 Product Listing
 * 🏪 Online Store Management
 
-**Technologies**
+### 💻 Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Joomla-FF69B4?style=for-the-badge&logo=joomla&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-C77DFF?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-FF2E93?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img width="48%"
-       src="https://github-readme-stats.vercel.app/api?username=Duongkny&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="40%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duongkny&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Duongkny&theme=radical&no-frame=true&no-bg=true&margin-w=5&row=1"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Duongkny&theme=tokyonight&hide_border=true"/>
+
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=Duongkny&show_icons=true&hide_border=true&title_color=FF69B4&icon_color=FF2E93&text_color=FFFFFF&bg_color=0D1117"/>
+
+<img width="41%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duongkny&layout=compact&hide_border=true&title_color=FF69B4&text_color=FFFFFF&bg_color=0D1117"/>
+
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duongkny&theme=tokyo-night&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Duongkny&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Duongkny&bg_color=0D1117&color=FF69B4&line=FF2E93&point=C77DFF&area=true&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Duongkny/Duongkny/output/github-contribution-grid-snake-dark.svg"/>
@@ -197,26 +224,38 @@ Online bookstore project developed using Joomla and HikaShop.
 
 ---
 
-## 📫 Connect With Me
+# 💖 Developer Quote
+
+<p align="center">
+
+> “Code, Learn, Build, Improve.”
+
+</p>
+
+---
+
+# 🌸 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/Duongkny">
-  <img src="https://img.shields.io/badge/GitHub-Duongkny-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-Duongkny-FF2E93?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
+<div align="center">
+
+### 💗 Thanks for visiting my profile!
+
+✨ Flutter • Dart • Mobile Development ✨
+
+⭐ Feel free to explore my repositories.
+
+</div>
+
 <p align="center">
-
-### 💻 Code • Learn • Build • Improve
-
-⭐ Thanks for visiting my GitHub profile!
-
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:C77DFF,100:FF2E93&height=130&section=footer"/>
 </p>
